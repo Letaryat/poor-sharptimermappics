@@ -6,7 +6,3 @@ CS2 movement map pictures. Used for (poor-)sharptimer discord webhook.
 **Pictures were taken from:**
 - [Sayt123 SurfMapPics](https://github.com/Sayt123/SurfMapPics)
 - [KZGlobalTeam Map-Images](https://github.com/KZGlobalTeam/map-images)
-
-## CS2 Movement map pictures.
-- Used for sharptimer discord webhook.
-
